@@ -37,7 +37,7 @@ A launcher (`main.py`) shows a **GAMES** menu. Choosing a game restarts the boar
 
 - MicroPython **[1.27.0](https://docs.w5500.com/reference/w55mh32l_adk.html)** firmware for the W55MH32 with the `st7789py` driver included (frozen into the firmware)
 - `mpy-cross` matching your MicroPython version (to build `.mpy` files)
-- A tool to copy files to the board, such as **[mpremote / Thonny / other]**
+- A tool to copy files to the board, such as **Thonny**
 
 ## Install
 
