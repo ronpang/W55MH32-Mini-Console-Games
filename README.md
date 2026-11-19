@@ -4,7 +4,7 @@ Three mini games for the **WIZnet W55MH32-ADK** board, written in **MicroPython*
 
 The code was mainly written with the help of Claude and tested on real hardware.
 
-**[Insert photo or GIF of the board running a game]**
+![Battle Tank](IMG_8909.JPG)
 
 ## Games
 
