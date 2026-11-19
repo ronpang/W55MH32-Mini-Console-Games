@@ -35,7 +35,7 @@ A launcher (`main.py`) shows a **GAMES** menu. Choosing a game restarts the boar
 
 ## Requirements
 
-- MicroPython **[1.27.0]** firmware for the W55MH32 with the `st7789py` driver included (frozen into the firmware)
+- MicroPython **[1.27.0](https://docs.w5500.com/reference/w55mh32l_adk.html)** firmware for the W55MH32 with the `st7789py` driver included (frozen into the firmware)
 - `mpy-cross` matching your MicroPython version (to build `.mpy` files)
 - A tool to copy files to the board, such as **[mpremote / Thonny / other]**
 
@@ -109,7 +109,7 @@ Files created on the board while playing: `*_cfg.json` (settings), `tank_hi.txt`
 
 ## Credits and licence
 
-- Code licence: **[choose a licence, e.g. MIT, and add a LICENSE file]**
+- Code licence: MIT
 - [MicroPython](https://micropython.org/) and the [`st7789py`](https://github.com/russhughes/st7789py_mpy) driver are MIT-licensed. Keep their licence notices if you include their source.
 - The BLOCK FALL music is the public-domain Russian folk tune *Korobeiniki*.
 - All sprites, stage layouts and sound effects are original.
